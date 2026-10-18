@@ -47,8 +47,10 @@ Includes the animated surface cast, articulated fisherman arms, splash and smoot
 underwater camera follow across all four biomes. The boat sits to the left with
 its stern slightly outside the frame. Casting respects pause; catches and Turbo
 begin after water entry. New species catches display a readable New badge.
+Landed fish leave the live hook immediately; closing the catch summary reveals
+the empty hook and bait reset to the ready position for another cast.
 
-Source commit: `e285f182ae4c76bd944e8a2efaf136f090e419ec` (PR #11). See `build-info.json`
+Source commit: `20bfd8f362a179e092f5f81cfd3d447b9f58ca16` (PR #11). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 

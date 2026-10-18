@@ -1,9 +1,10 @@
 {
-  "sourceCommit": "e285f182ae4c76bd944e8a2efaf136f090e419ec",
+  "sourceCommit": "20bfd8f362a179e092f5f81cfd3d447b9f58ca16",
   "sourceBranch": "feature/first-catch-new-badge",
-  "builtAt": "2026-10-18T14:27:09.764598+00:00",
+  "builtAt": "2026-10-18T14:49:26.844163+00:00",
   "features": [
     "animated-surface-casting",
-    "first-catch-new-badge"
+    "first-catch-new-badge",
+    "ready-rig-reset-after-landing"
   ]
 }
