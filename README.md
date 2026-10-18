@@ -6,7 +6,7 @@ The Schoolkeeper Rig adds capacity for two, three, and four fish. The first bite
 starts reeling; fill the spare hooks with more catches on the way up. Astral
 Harpoon Alloy adds one bonus slot, for a maximum of five fish per cast.
 
-The expansion brings the collection to 35 animated species, with biome-exclusive
+The expansion brings the collection to 36 animated species, with biome-exclusive
 catches, three specialist hook fittings (one equipped at a time), and a Turbo
 downward burst. Waters end at 300m, 650m, 1,000m, and 1,500m; Turbo upgrades from 2 to
 8 seconds and from one to three uses per cast.
@@ -22,6 +22,9 @@ independent rarity rolls. Mythics have a 5.88–10% deep-water roll with at leas
 Species mastery awards stars at 1, 10, and 30 lifetime catches. Two stars grant
 a permanent +10% value bonus for that species; three stars replace it with +20%.
 Existing catch records count automatically, with progress shown in the journal.
+
+Aurora Crown Dory is a Level 5 rare exclusive to the Glacial Fjord at
+1,000–1,500m, with original pixel art and animated crown, fins, and tail.
 
 The field journal uses compact cards; tap one for full lore, catch requirements,
 mastery, and records. Keyboard navigation and short-screen detail dialogs are supported.
