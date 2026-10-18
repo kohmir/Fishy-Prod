@@ -33,6 +33,10 @@ On touchscreens, touch the scene and drag left/right from your starting point
 to steer. Each gesture has a small neutral zone and a floating pixel joystick.
 Desktop mouse and keyboard controls retain their original behavior.
 
+Fish animations are prepared ahead of time and preloaded behind the loading
+screen. Journal previews draw only when visible. Joystick painting and HUD
+updates avoid redundant rendering; hidden or paused lakes skip repainting.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
