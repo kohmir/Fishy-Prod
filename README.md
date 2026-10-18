@@ -2,6 +2,9 @@
 
 A retro pixel fishing game. This repository contains the compiled static build.
 
+The Schoolkeeper Rig adds capacity for two, three, and four fish. The first bite
+starts reeling; fill the spare hooks with more catches on the way up.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
