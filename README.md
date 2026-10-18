@@ -54,11 +54,12 @@ New biome unlocks require 12 discovered species for the Cenote, 20 for the
 Caldera, and 28 for the Fjord. Unlock costs remain 650 / 1,800 / 4,200 coins,
 and already-unlocked waters remain available.
 
-The Cenote, Caldera and Fjord now use complete pixel panoramas, with continuous
-canopy, stars and aurora reaching from the top of the view to the water. The
-scenery stays anchored during casting; underwater parallax remains intact.
+All four biomes now use complete pixel panoramas, with Pine Lake’s expanded
+rose-and-gold sunset, the Cenote canopy, Caldera stars and Fjord aurora reaching
+from the top of the view to the water. The scenery stays anchored during casting;
+underwater parallax remains intact.
 
-Source commit: `e1dfa385d4a0b90abd720efc949829d4bdcd82d7` (PR #12). See `build-info.json`
+Source commit: `9a59488a37e37322ad40a007b0c6758e2448d1d3` (PR #12). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 
