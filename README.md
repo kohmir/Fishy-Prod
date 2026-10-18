@@ -19,6 +19,10 @@ The abyssal balance update adds five animated Common/Uncommon obstacles and
 independent rarity rolls. Mythics have a 5.88–10% deep-water roll with at least
 100m between Mythic spawns. Encounter spacing widens with depth to 16–18m.
 
+Species mastery awards stars at 1, 10, and 30 lifetime catches. Two stars grant
+a permanent +10% value bonus for that species; three stars replace it with +20%.
+Existing catch records count automatically, with progress shown in the journal.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
