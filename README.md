@@ -3,7 +3,8 @@
 A retro pixel fishing game. This repository contains the compiled static build.
 
 The Schoolkeeper Rig adds capacity for two, three, and four fish. The first bite
-starts reeling; fill the spare hooks with more catches on the way up.
+starts reeling; fill the spare hooks with more catches on the way up. Astral
+Harpoon Alloy adds one bonus slot, for a maximum of five fish per cast.
 
 ## GitHub Pages
 
