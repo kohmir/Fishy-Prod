@@ -37,7 +37,7 @@ Fish animations are prepared ahead of time and preloaded behind the loading
 screen. Journal previews draw only when visible. Joystick painting and HUD
 updates avoid redundant rendering; hidden or paused lakes skip repainting.
 
-The Lake Drifter boat icon appears in browser tabs, the game header, and the
+The sunset Lake Drifter boat icon appears in browser tabs, the game header, and the
 loading screen. Apple Touch Icons include 180px iPhone and 167/152px iPad variants;
 home-screen labels use Deepcast. Existing player saves remain compatible.
 
