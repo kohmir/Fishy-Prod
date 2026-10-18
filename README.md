@@ -1,4 +1,4 @@
-# Abyssal Cast
+# Deepcast
 
 A retro pixel fishing game. This repository contains the compiled static build.
 
@@ -37,6 +37,10 @@ Fish animations are prepared ahead of time and preloaded behind the loading
 screen. Journal previews draw only when visible. Joystick painting and HUD
 updates avoid redundant rendering; hidden or paused lakes skip repainting.
 
+The Lake Drifter boat icon appears in browser tabs, the game header, and the
+loading screen. Apple Touch Icons include 180px iPhone and 167/152px iPad variants;
+home-screen labels use Deepcast. Existing player saves remain compatible.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
@@ -48,6 +52,6 @@ or API keys are needed. Player progress is stored locally in each browser.
 ## Updating
 
 Build the source with `npm run build:pages`. Replace the generated `index.html`,
-`assets/`, `art/`, and `fonts/` with the contents of the new `dist/`, removing
+`assets/`, `art/`, `fonts/`, and `icons/` with the contents of the new `dist/`, removing
 obsolete hashed assets. Preserve this README and `.nojekyll`, then commit and
 push to `main`. GitHub Pages deploys the updated files.
