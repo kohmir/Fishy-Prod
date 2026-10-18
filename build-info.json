@@ -1,0 +1,9 @@
+{
+  "sourceCommit": "e285f182ae4c76bd944e8a2efaf136f090e419ec",
+  "sourceBranch": "feature/first-catch-new-badge",
+  "builtAt": "2026-10-18T14:27:09.764598+00:00",
+  "features": [
+    "animated-surface-casting",
+    "first-catch-new-badge"
+  ]
+}

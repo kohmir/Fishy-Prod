@@ -41,6 +41,17 @@ The Lake Drifter boat icon uses Whispering Pine Lake's colors and appears in bro
 loading screen. Apple Touch Icons include 180px iPhone and 167/152px iPad variants;
 home-screen labels use Deepcast. Existing player saves remain compatible.
 
+## Current build
+
+Includes the animated surface cast, articulated fisherman arms, splash and smooth
+underwater camera follow across all four biomes. The boat sits to the left with
+its stern slightly outside the frame. Casting respects pause; catches and Turbo
+begin after water entry. New species catches display a readable New badge.
+
+Source commit: `e285f182ae4c76bd944e8a2efaf136f090e419ec` (PR #11). See `build-info.json`
+for build metadata. The source PR remains open; this repository hosts its tested
+compiled production build.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
