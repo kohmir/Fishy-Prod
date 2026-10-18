@@ -23,6 +23,9 @@ Species mastery awards stars at 1, 10, and 30 lifetime catches. Two stars grant
 a permanent +10% value bonus for that species; three stars replace it with +20%.
 Existing catch records count automatically, with progress shown in the journal.
 
+The field journal uses compact cards; tap one for full lore, catch requirements,
+mastery, and records. Keyboard navigation and short-screen detail dialogs are supported.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
