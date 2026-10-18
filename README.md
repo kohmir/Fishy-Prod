@@ -29,6 +29,10 @@ Aurora Crown Dory is a Level 5 rare exclusive to the Glacial Fjord at
 The field journal uses compact cards; tap one for full lore, catch requirements,
 mastery, and records. Keyboard navigation and short-screen detail dialogs are supported.
 
+On touchscreens, touch the scene and drag left/right from your starting point
+to steer. Each gesture has a small neutral zone and a floating pixel joystick.
+Desktop mouse and keyboard controls retain their original behavior.
+
 ## GitHub Pages
 
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
