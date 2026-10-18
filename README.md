@@ -7,7 +7,7 @@ A retro pixel fishing game. This repository contains the compiled static build.
 In Settings → Pages → Build and deployment, select **Deploy from a branch**,
 **main**, and **/(root)**. All game files are already at the repository root.
 
-The game works under a repository subfolder, such as `/Fishy-pages/`. No server
+The game works under this repository's `/Fishy-Prod/` subfolder. No server
 or API keys are needed. Player progress is stored locally in each browser.
 
 ## Updating
