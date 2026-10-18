@@ -59,7 +59,11 @@ rose-and-gold sunset, the Cenote canopy, Caldera stars and Fjord aurora reaching
 from the top of the view to the water. The scenery stays anchored during casting;
 underwater parallax remains intact.
 
-Source commit: `9a59488a37e37322ad40a007b0c6758e2448d1d3` (PR #12). See `build-info.json`
+Full hooks ease from normal speed to 4× over 1.5 seconds, then ease back to
+normal over the final 20 metres. Shallow catches smoothly blend both phases;
+spare slots and empty hooks retain their existing ascent speeds.
+
+Source commit: `c4ded75dab8567e64394a56ceb40940459012f5a` (PR #13). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 
