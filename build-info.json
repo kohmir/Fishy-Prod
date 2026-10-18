@@ -1,11 +1,12 @@
 {
-  "sourceCommit": "e1cb5057b47fb93c1ed75b8bee23116d0f72a420",
-  "sourceBranch": "feature/first-catch-new-badge",
-  "builtAt": "2026-10-18T15:09:07.466915+00:00",
+  "sourceCommit": "e1dfa385d4a0b90abd720efc949829d4bdcd82d7",
+  "sourceBranch": "fix/biome-surface-scenery",
+  "builtAt": "2026-10-18T15:40:09.365452+00:00",
   "features": [
     "animated-surface-casting",
     "first-catch-new-badge",
     "ready-rig-reset-after-landing",
-    "biome-discovery-gates-12-20-28"
+    "biome-discovery-gates-12-20-28",
+    "continuous-biome-surface-scenery"
   ]
 }
