@@ -50,7 +50,11 @@ begin after water entry. New species catches display a readable New badge.
 Landed fish leave the live hook immediately; closing the catch summary reveals
 the empty hook and bait reset to the ready position for another cast.
 
-Source commit: `20bfd8f362a179e092f5f81cfd3d447b9f58ca16` (PR #11). See `build-info.json`
+New biome unlocks require 12 discovered species for the Cenote, 20 for the
+Caldera, and 28 for the Fjord. Unlock costs remain 650 / 1,800 / 4,200 coins,
+and already-unlocked waters remain available.
+
+Source commit: `e1cb5057b47fb93c1ed75b8bee23116d0f72a420` (PR #11). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 
