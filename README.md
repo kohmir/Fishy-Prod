@@ -63,7 +63,10 @@ Full hooks ease from normal speed to 4× over 1.5 seconds, then ease back to
 normal over the final 20 metres. Shallow catches smoothly blend both phases;
 spare slots and empty hooks retain their existing ascent speeds.
 
-Source commit: `c4ded75dab8567e64394a56ceb40940459012f5a` (PR #13). See `build-info.json`
+Catch summaries reserve a padded footer below all fish details, including final-row
+mastery bonuses. Tall hauls scroll while keeping the action reachable.
+
+Source commit: `794abb82eda64555b985bfd3d5d59972091918cc` (PR #15). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 

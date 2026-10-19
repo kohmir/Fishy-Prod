@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "c4ded75dab8567e64394a56ceb40940459012f5a",
-  "sourceBranch": "feat/full-hook-fast-reel",
-  "builtAt": "2026-10-18T16:28:48.994167+00:00",
+  "sourceCommit": "794abb82eda64555b985bfd3d5d59972091918cc",
+  "sourceBranch": "fix/catch-summary-layout-flow",
+  "builtAt": "2026-10-19T07:37:09.052494+00:00",
   "features": [
     "animated-surface-casting",
     "first-catch-new-badge",
@@ -9,6 +9,7 @@
     "biome-discovery-gates-12-20-28",
     "continuous-biome-surface-scenery",
     "expanded-pine-lake-surface",
-    "eased-full-hook-reel-4x-1500ms-20m"
+    "eased-full-hook-reel-4x-1500ms-20m",
+    "catch-summary-padded-footer"
   ]
 }
