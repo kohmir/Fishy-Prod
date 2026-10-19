@@ -70,7 +70,10 @@ During ascent, Skip immediately returns with only the fish currently hooked.
 Rewards, mastery, depth records, and the ready-rig reset use the normal landing
 path. Skipping also works for empty hooks and pauses safely with the game.
 
-Source commit: `6b97b07f7636602d38ff416ab891108515fcb76f` (PR #15). See `build-info.json`
+The depth HUD fits its contents and stays independent of the right-hand controls.
+Bait Guard sits beneath it in a shared stack with a consistent 12px gap.
+
+Source commit: `74eb98de9be10f6441ea220b08d6c81768e4f7b7` (PR #15). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 

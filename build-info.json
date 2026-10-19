@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "6b97b07f7636602d38ff416ab891108515fcb76f",
+  "sourceCommit": "74eb98de9be10f6441ea220b08d6c81768e4f7b7",
   "sourceBranch": "fix/catch-summary-layout-flow",
-  "builtAt": "2026-10-19T07:46:53.598661+00:00",
+  "builtAt": "2026-10-19T07:53:16.428902+00:00",
   "features": [
     "animated-surface-casting",
     "first-catch-new-badge",
@@ -11,6 +11,7 @@
     "expanded-pine-lake-surface",
     "eased-full-hook-reel-4x-1500ms-20m",
     "catch-summary-padded-footer",
-    "skip-ascent-current-haul"
+    "skip-ascent-current-haul",
+    "compact-depth-hud-and-guard-stack"
   ]
 }
