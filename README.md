@@ -66,7 +66,11 @@ spare slots and empty hooks retain their existing ascent speeds.
 Catch summaries reserve a padded footer below all fish details, including final-row
 mastery bonuses. Tall hauls scroll while keeping the action reachable.
 
-Source commit: `794abb82eda64555b985bfd3d5d59972091918cc` (PR #15). See `build-info.json`
+During ascent, Skip immediately returns with only the fish currently hooked.
+Rewards, mastery, depth records, and the ready-rig reset use the normal landing
+path. Skipping also works for empty hooks and pauses safely with the game.
+
+Source commit: `6b97b07f7636602d38ff416ab891108515fcb76f` (PR #15). See `build-info.json`
 for build metadata. The source PR remains open; this repository hosts its tested
 compiled production build.
 

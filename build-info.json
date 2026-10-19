@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "794abb82eda64555b985bfd3d5d59972091918cc",
+  "sourceCommit": "6b97b07f7636602d38ff416ab891108515fcb76f",
   "sourceBranch": "fix/catch-summary-layout-flow",
-  "builtAt": "2026-10-19T07:37:09.052494+00:00",
+  "builtAt": "2026-10-19T07:46:53.598661+00:00",
   "features": [
     "animated-surface-casting",
     "first-catch-new-badge",
@@ -10,6 +10,7 @@
     "continuous-biome-surface-scenery",
     "expanded-pine-lake-surface",
     "eased-full-hook-reel-4x-1500ms-20m",
-    "catch-summary-padded-footer"
+    "catch-summary-padded-footer",
+    "skip-ascent-current-haul"
   ]
 }
